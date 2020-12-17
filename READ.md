@@ -7,7 +7,9 @@ This is a sample website project .
 Introduction section.
 
 ## Purpose
+adding purpose
 
 ## How to Contribute
 
+contribution section.
 ## Deployment
